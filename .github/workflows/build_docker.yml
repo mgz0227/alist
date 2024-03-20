@@ -87,7 +87,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          repository: alist-org/with_aria2
+          repository: miaogongzi/with_aria2
           ref: main
           persist-credentials: false
           fetch-depth: 0
